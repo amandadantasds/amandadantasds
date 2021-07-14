@@ -10,5 +10,5 @@
  <h2 align="center" color = "red" >SOBRE MIM</h2>
  
  <p Sou uma pessoa criativa, proativa, comunicativa, organizada e gosto de trabalhar em equipe. /p>
-<p Atualmente estou cursando o terceiro ano do técnico em informática integrado ao ensino médio no IFSP/>
-<p A área que mais me interesso é a de desenvolvimento front-end. Pretendo continuar estudando e me desenvolvendo neste nicho./>
+<p Atualmente estou cursando o terceiro ano do técnico em informática integrado ao ensino médio no IFSP/p>
+<p A área que mais me interesso é a de desenvolvimento front-end. Pretendo continuar estudando e me desenvolvendo neste nicho./p>
