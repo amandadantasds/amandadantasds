@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Olá! :upside_down_face:</h1>
+
 
 <p align="center">
  <img src= "https://media.discordapp.net/attachments/816888490955636747/864915060622098472/Ola_eu_Sou_a_Amanda.png?width=840&height=473  width="500"/>
