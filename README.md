@@ -7,7 +7,7 @@
        </p>
        
        
- <h2 align="center" color = "red" >SOBRE MIM</h2>
+ <h2 align="center" >SOBRE MIM</h2>
  
  "Sou uma pessoa criativa, proativa, comunicativa, organizada e gosto de trabalhar em equipe. 
  
@@ -18,10 +18,10 @@ Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas."
 
 <h2 align="center" > SOFT SKILLS</h2>
 
-<p align="center">
+<h4 align="center"
 
-• Criatividade • Proatividade • Comunicação• Flexibilidade • Organização • Curiosidade • Trabalho em equipe
-</p>
+• Criatividade • Proatividade • Comunicação• Flexibilidade • Organização • Curiosidade • Trabalho em equipe </h4>
+
 <h2 align="center" >HARD SKILLS</h2>
 
  • C
