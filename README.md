@@ -10,10 +10,10 @@
  <h2 align="center" >SOBRE MIM :upside_down_face:</h2>
  
  <p align = "center">"Sou uma pessoa criativa, proativa, comunicativa, organizada e gosto de trabalhar em equipe. 
- 
-Atualmente estou cursando o terceiro ano do técnico em informática integrado ao ensino médio no IFSP. Pretendo seguir na área, após concluir o técnico, e me especializar em desenvolvimento front-end, pois é o nicho que mais gosto e me identifico.
-
-Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas."</p>
+ </p>
+<p align = "center">Atualmente estou cursando o terceiro ano do técnico em informática integrado ao ensino médio no IFSP. Pretendo seguir na área, após concluir o técnico, e me especializar em desenvolvimento front-end, pois é o nicho que mais gosto e me identifico.
+</p>
+<p align = "center">Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas."</p>
       
 
 <h2 align="center" >SKILLS :computer:</h2>
