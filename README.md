@@ -1,5 +1,5 @@
 
-![alt text](https://media.discordapp.net/attachments/816888490955636747/864915060622098472/Ola_eu_Sou_a_Amanda.png?width=320&height=320)
+![alt text](https://media.discordapp.net/attachments/816888490955636747/864919456953401354/31_Sem_Titulo_20210714034422.png?width=297&height=472)
 <h1 align="center">Olá!</h1>
 <aside><p>Foto e conteúdo lateral</p></aside>
 
