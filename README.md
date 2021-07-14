@@ -16,7 +16,13 @@ Atualmente estou cursando o terceiro ano do técnico em informática integrado a
 Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas."
       
 
-<h2 align="center" > SKILLS</h2>
+<h2 align="center" > SOFT SKILLS</h2>
+
+• Criatividade
+• Proatividade
+• Boa comunicação
+• Flexibilidade
+• Organização
 
 
 <h2 align="center" >PROJETOS</h2>
