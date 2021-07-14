@@ -15,7 +15,7 @@
 </p>
 <p align = "center">Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas."</p>
       
-
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/7ehEzNjmpLEMNDOeRM6trB?si=ickB8HVqSG2MPeArrS7utQ&utm_source=copy-link&dl_branch=1)
 <h2 align="center" >SKILLS :computer:</h2>
 
 
