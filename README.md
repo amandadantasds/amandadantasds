@@ -11,4 +11,4 @@
  
  Sou uma pessoa criativa, proativa, comunicativa, organizada e gosto de trabalhar em equipe. 
 Atualmente estou cursando o terceiro ano do técnico em informática integrado ao ensino médio no IFSP. Pretendo seguir na área após concluir o técnico e me epecializar no desenvolvimento front-end, pois é o nicho que mais gosto e me identifico.
-Tenho uma curisidade aguçada e gosto de descobrir e aprender novas coisas. 
+Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas. 
