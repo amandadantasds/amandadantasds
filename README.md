@@ -2,7 +2,12 @@
 
 <h1 align="center">Olá!</h1>
 <aside><p>Foto e conteúdo lateral</p></aside>
-<img src= "https://media.discordapp.net/attachments/816888490955636747/864919456953401354/31_Sem_Titulo_20210714034422.png?width=497&height=672" style = "position: fixed; margin: bottom: 100%">
+<img src= "https://media.discordapp.net/attachments/816888490955636747/864919456953401354/31_Sem_Titulo_20210714034422.png?width=497&height=672" style = "position: fixed;
+   top: 248px;
+   height: 30px;
+   width: 35px;
+   z-index: 100;
+   left: 0pt;">
 <main>
 <p>Informações principais</p>
 <article>Artigo Sobre mim</article>
