@@ -22,12 +22,18 @@ Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas."
 
 <h2 align="center" >HARD SKILLS</h2>
 
-• C
+ • C
+
  • C#
+
  • Java 
+
  • PHP
+
  • Lógica de programação
+
  • HTML5
+
  • CSS3
 
 
