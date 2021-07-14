@@ -1,6 +1,14 @@
 
 ![alt text](https://media.discordapp.net/attachments/816888490955636747/864915060622098472/Ola_eu_Sou_a_Amanda.png?width=320&height=320)
 <h1 align="center">Olá!</h1>
+<aside><p>Foto e conteúdo lateral</p></aside>
+
+<main>
+<p>Informações principais</p>
+<article>Artigo Sobre mim</article>
+</main>
+
+<article>Meus projetos</article>
 <!--
 **amandadantasds/amandadantasds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
