@@ -27,8 +27,8 @@ Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas."
 
 <h3 align="center" > HARD</h3>
 
-<h5
-  C • C# • JAVA • PHP • LÓGICA DE PROGRAMAÇÃO • HTML5 • CSS3 </h5>
+<h5 align="center"
+  >C • C# • JAVA • PHP • LÓGICA DE PROGRAMAÇÃO • HTML5 • CSS3 </h5>
 
 
 <h2 align="center" >PROJETOS</h2>
