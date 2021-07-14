@@ -1,6 +1,6 @@
-###Olá!
-![alt text](https://media.discordapp.net/attachments/816888490955636747/864915060622098472/Ola_eu_Sou_a_Amanda.png?width=840&height=473)
 
+![alt text](https://media.discordapp.net/attachments/816888490955636747/864915060622098472/Ola_eu_Sou_a_Amanda.png?width=840&height=473)
+<h1 align="center">Olá!</h1>
 <!--
 **amandadantasds/amandadantasds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
