@@ -15,7 +15,7 @@ Atualmente estou cursando o terceiro ano do técnico em informática integrado a
 
 Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas. 
 
-<a target="_blank" rel="noopener noreferrer" alt="Amanda's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=tuliofaria&amp;show_icons=true&amp;theme=radical" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" alt="Amanda's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=amandadantasds&amp;show_icons=true&amp;theme=radical" style="max-width:100%;"></a>
 </p>
 
 <h2 align="center" >:white_small_square: PROJETOS</h2>
