@@ -18,14 +18,11 @@ Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas."
 
 <h2 align="center" >SKILLS</h2>
 
-<h3 align="center" > SOFT</h3>
-
 
 <h5 align="center"
 
  CRIATIVIDADE • PROATIVIDADE • BOA COMUNICAÇÃO • FLEXIBILIDADE • ORGANIZAÇÃO • CURIOSIDADE </h5>
 
-<h3 align="center" > HARD</h3>
 
 <h5 align="center"
   >C • C# • JAVA • PHP • LÓGICA DE PROGRAMAÇÃO • HTML5 • CSS3 </h5>
