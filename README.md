@@ -23,6 +23,7 @@ Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas."
 • Boa comunicação
 • Flexibilidade
 • Organização
+• Curiosidade
 
 
 <h2 align="center" >PROJETOS</h2>
