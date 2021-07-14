@@ -20,11 +20,11 @@
 
 
 
- <p align = "center"> Criatividade • Proatividade • Boa comunicação • Flexibilidade • ORGANIZAÇÃO • CURIOSIDADE </p>
+ <p align = "center"> Criatividade • Proatividade • Boa comunicação • Flexibilidade • Organização • Curiosidade </p>
 
 
 
-  <p align = "center">C • C# • JAVA • PHP • LÓGICA DE PROGRAMAÇÃO • HTML5 • CSS3 </p>
+  <p align = "center">C • C# • JAVA • PHP • Lógica de programação • HTML5 • CSS3 </p>
 
 
 <h2 align="center" >PROJETOS :bookmark_tabs:</h2>
