@@ -20,13 +20,13 @@ Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas."
 
 <h4 align="center"
 
- Criatividade • Proatividade • Boa Comunicação • Flexibilidade • Organização • Curiosidade </h4>
+ CRIATIVIDADE • PROATIVIDADE • BOA COMUNICAÇÃO • FLEXIBILIDADE • ORGANIZAÇÃO • CURIOSIDADE </h4>
 
 <h2 align="center" >HARD SKILLS</h2>
 
 <h4 align="center"
 
-  C • C# • Java • PHP • Lógica de programação • HTML5 • CSS3
+  C • C# • JAVA • PHP • LÓGICA DE PROGRAMAÇÃO • HTML5 • CSS3
 </h4>
 
 
