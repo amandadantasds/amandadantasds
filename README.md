@@ -19,15 +19,14 @@
 <h2 align="center" >SKILLS :computer:</h2>
 
 
-<h5 align="center"
 
- CRIATIVIDADE • PROATIVIDADE • BOA COMUNICAÇÃO • FLEXIBILIDADE • ORGANIZAÇÃO • CURIOSIDADE </h5>
+ <p align = "center"> CRIATIVIDADE • PROATIVIDADE • BOA COMUNICAÇÃO • FLEXIBILIDADE • ORGANIZAÇÃO • CURIOSIDADE </p>
 
 
-<h5 align="center"
-  >C • C# • JAVA • PHP • LÓGICA DE PROGRAMAÇÃO • HTML5 • CSS3 </h5>
+
+  <p align = "center">C • C# • JAVA • PHP • LÓGICA DE PROGRAMAÇÃO • HTML5 • CSS3 </p>
 
 
 <h2 align="center" >PROJETOS :bookmark_tabs:</h2>
 
-Você pode conferir alguns dos meus projetos logo abaixo, nos meus repositórios fixados! =)
+<p align = "center">Você pode conferir alguns dos meus projetos logo abaixo, nos meus repositórios fixados! =) </p>
