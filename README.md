@@ -20,7 +20,7 @@
 
 
 
- <p align = "center"> CRIATIVIDADE • PROATIVIDADE • BOA COMUNICAÇÃO • FLEXIBILIDADE • ORGANIZAÇÃO • CURIOSIDADE </p>
+ <p align = "center"> Criatividade • Proatividade • Boa comunicação • Flexibilidade • ORGANIZAÇÃO • CURIOSIDADE </p>
 
 
 
