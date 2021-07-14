@@ -15,4 +15,5 @@ Atualmente estou cursando o terceiro ano do técnico em informática integrado a
 
 Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas. 
 
-Você pode conferir alguns dos meus projetos nos meus repositórios fixados! =)
+<h2 align="center" >PROJETOS</h2>
+Você pode conferir alguns dos meus projetos logo abaixo, nos meus repositórios fixados! =)
