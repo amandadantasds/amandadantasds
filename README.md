@@ -15,7 +15,10 @@
 </p>
 <p align = "center">Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas."</p>
       
-[![Spotify]()](https://open.spotify.com/playlist/7ehEzNjmpLEMNDOeRM6trB?si=ickB8HVqSG2MPeArrS7utQ&utm_source=copy-link&dl_branch=1)
+<h4 align="center"> Escute uma das minhas músicas favoritas</h4>
+<p align="center">
+ <img src= "https://media.discordapp.net/attachments/816888490955636747/865019930310868992/Remini20210714205901344.jpg" width="250"/>
+       </p>
 <h2 align="center" >SKILLS :computer:</h2>
 
 
