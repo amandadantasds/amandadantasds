@@ -22,7 +22,7 @@
 <h2 align="center" >SKILLS :computer:</h2>
 
 <p align= "center"> 
-<img src= "https://media.discordapp.net/attachments/816888490955636747/865028906067034147/33_Sem_Titulo_20210714213247.png" width="500"/>
+<img src= "https://media.discordapp.net/attachments/816888490955636747/865028906067034147/33_Sem_Titulo_20210714213247.png" width="250"/>
        </p>
        
 
