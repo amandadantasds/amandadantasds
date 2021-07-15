@@ -21,13 +21,10 @@
        </p>
 <h2 align="center" >SKILLS :computer:</h2>
 
-
-
- <p align = "center"> Criatividade • Proatividade • Boa comunicação • Flexibilidade • Organização • Curiosidade </p>
-
-
-
-  <p align = "center">C • C# • JAVA • PHP • Lógica de programação • HTML5 • CSS3 </p>
+<p align= "center"> 
+<img src= "https://media.discordapp.net/attachments/816888490955636747/865028906067034147/33_Sem_Titulo_20210714213247.png" width="500"/>
+       </p>
+       
 
 
 <h2 align="center" >PROJETOS :bookmark_tabs:</h2>
