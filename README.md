@@ -19,7 +19,7 @@
 <p align="center">
  <img src= "https://media.discordapp.net/attachments/816888490955636747/865023238320422922/Remini20210714211311523.jpg" width="250"/>
        </p>
-<h2 align="center" >SKILLS :computer:</h2>
+<h2 align="center" >SKILLS </h2>
 
 <p align= "center"> 
 <img src= "https://media.discordapp.net/attachments/816888490955636747/865030748887973958/ei_1626309701636-removebg-preview.png" width="250"/>
