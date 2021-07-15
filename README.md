@@ -7,7 +7,7 @@
        </p>
        
        
- <h2 align="center" >SOBRE MIM :upside_down_face:</h2>
+ <h2 align="center" > 🤓 SOBRE MIM</h2>
  
  <p align = "center">"Sou uma pessoa criativa, proativa, comunicativa, organizada e gosto de trabalhar em equipe. 
  </p>
@@ -19,7 +19,7 @@
 <p align="center">
  <img src= "https://media.discordapp.net/attachments/816888490955636747/865023238320422922/Remini20210714211311523.jpg" width="250"/>
        </p>
-<h2 align="center" >:round_pushpin: SKILLS </h2>
+<h2 align="center" >📍SKILLS </h2>
 
 <p align= "center"> 
 <img src= "https://media.discordapp.net/attachments/816888490955636747/865030748887973958/ei_1626309701636-removebg-preview.png" width="250"/>
@@ -27,6 +27,6 @@
        
 
 
-<h2 align="center" >PROJETOS :bookmark_tabs:</h2>
+<h2 align="center" >📑 PROJETOS<
 
 <p align = "center">Você pode conferir alguns dos meus projetos logo abaixo, nos meus repositórios fixados! =) </p>
