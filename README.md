@@ -33,10 +33,8 @@
 
 <p align = "center">
     <a href="https://github.com/amandadantasds">
-        <img src="https://github-readme-stats.vercel.app/api?username=amandadantasds&show_icons=true&theme=radical " align="center"/>
-    </a>
-    <a href="https://github.com/amandadantasds">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amandadantasds&theme=radical" align="center"/>
     </a>
 </p>
+
 ![snake gif](https://github.com/amandadantasds/amandadantasds/blob/output/github-contribution-grid-snake.svg)
