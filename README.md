@@ -7,11 +7,11 @@
        </p>
        
        
- <h2 align="left" > 📝 SOBRE MIM</h2>
+ <h2 align="left" text-color="#2061F0" > 📝 SOBRE MIM</h2>
  
  <p align = "justified">Sou uma pessoa criativa, proativa, comunicativa, organizada e gosto de trabalhar em equipe. 
  </p>
-<p align = "justified">"Em 2022 concluí o curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) e atualmente curso Bacharelado em Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP).
+<p align = "justified">Em 2022 concluí o curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) e atualmente curso Bacharelado em Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP).
 </p>
 <p align = "justified">Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas.</p>
       
