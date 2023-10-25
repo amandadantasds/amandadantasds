@@ -15,10 +15,10 @@
 </p>
 <p align = "justified">Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas.</p>
       
-<h4 align="center"> Escute uma das minhas músicas favoritas</h4>
-<p align="center">
- <img src= "https://media.discordapp.net/attachments/816888490955636747/865023238320422922/Remini20210714211311523.jpg" width="250"/>
-       </p>
+<h4 align="center"> Fale comigo! </h4>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/amandaedantasds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt =" Larissa Souza " target="_blank">
+  </a> 
 <h2 align="left" > 💻 SKILLS </h2>
 
 <p align= "center"> 
