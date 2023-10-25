@@ -28,7 +28,7 @@
 
 <p align = "center">
     <a href="https://github.com/amandadantasds">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amandadantasds&theme=merko" align="center"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amandadantasds&theme=tokyonight" align="center"/>
     </a>
 </p>
 
