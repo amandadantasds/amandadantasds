@@ -2,9 +2,9 @@
 
 
 
-<p align="center">
+<p>
  <img src= "https://cdn.discordapp.com/attachments/1020518662597246989/1166727937706442772/White_Torn_Paper_LinkedIn_Banner.jpg?ex=654b8b11&is=65391611&hm=b02a867fa8359afbfdcb24f3e1461a86fe4640a31d1f29a58eed10110baaa61c&"/>
-       </p>
+</p>
        
        
  <h2 align="left"> 📝 SOBRE MIM</h2>
