@@ -9,11 +9,11 @@
        
  <h2 align="left" > 📝 SOBRE MIM</h2>
  
- <p align = "justified">"Sou uma pessoa criativa, proativa, comunicativa, organizada e gosto de trabalhar em equipe. 
+ <p align = "justified">Sou uma pessoa criativa, proativa, comunicativa, organizada e gosto de trabalhar em equipe. 
  </p>
-<p align = "justified">Atualmente estou cursando o terceiro ano do técnico em informática integrado ao ensino médio no IFSP. Pretendo seguir na área, após concluir o técnico, e me especializar em desenvolvimento front-end, pois é o nicho que mais gosto e me identifico.
+<p align = "justified">"Em 2022 concluí o curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) e atualmente curso Bacharelado em Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP).
 </p>
-<p align = "justified">Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas."</p>
+<p align = "justified">Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas.</p>
       
 <h4 align="center"> Escute uma das minhas músicas favoritas</h4>
 <p align="center">
