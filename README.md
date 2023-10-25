@@ -19,7 +19,7 @@
 <p align="center">
  <img src= "https://media.discordapp.net/attachments/816888490955636747/865023238320422922/Remini20210714211311523.jpg" width="250"/>
        </p>
-<h2 align="left" >🛠️ SKILLS </h2>
+<h2 align="left" > 💻 SKILLS </h2>
 
 <p align= "center"> 
 <img src= "https://media.discordapp.net/attachments/1020518662597246989/1166771093101629530/skills.png?ex=654bb342&is=65393e42&hm=486e1a46eecbac870bd9d7be05ca0418483c5687191e2a5dc0ba078d28ad576d&=" width="400"/>
@@ -27,6 +27,6 @@
        
 
 
-<h2 align="left" > 👩‍💻 PROJETOS</h2>
+<h2 align="left" > 📑 PROJETOS</h2>
 
 <p align = "justified">Você pode conferir alguns dos meus projetos logo abaixo, nos meus repositórios fixados! =) </p>
