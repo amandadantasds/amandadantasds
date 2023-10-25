@@ -30,3 +30,5 @@
 <h2 align="left" > 📑 PROJETOS</h2>
 
 <p align = "justified">Você pode conferir alguns dos meus projetos logo abaixo, nos meus repositórios fixados! =) </p>
+
+![snake gif](https://github.com/amandadantasds/amandadantasds/blob/output/github-contribution-grid-snake.svg)
