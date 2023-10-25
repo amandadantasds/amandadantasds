@@ -7,7 +7,7 @@
        </p>
        
        
- <h2 align="left" > 🤓 SOBRE MIM</h2>
+ <h2 align="left" > 📝 SOBRE MIM</h2>
  
  <p align = "justified">"Sou uma pessoa criativa, proativa, comunicativa, organizada e gosto de trabalhar em equipe. 
  </p>
