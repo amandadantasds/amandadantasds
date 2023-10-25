@@ -7,7 +7,7 @@
        </p>
        
        
- <h2 align="left" text-color="#2061F0" > 📝 SOBRE MIM</h2>
+ <h2 align="left"> 📝 SOBRE MIM</h2>
  
  <p align = "justified">Sou uma pessoa criativa, proativa, comunicativa, organizada e gosto de trabalhar em equipe. 
  </p>
@@ -22,7 +22,7 @@
 <h2 align="left" >🛠️ SKILLS </h2>
 
 <p align= "center"> 
-<img src= "https://media.discordapp.net/attachments/816888490955636747/865030748887973958/ei_1626309701636-removebg-preview.png" width="250"/>
+<img src= "https://media.discordapp.net/attachments/1020518662597246989/1166771093101629530/skills.png?ex=654bb342&is=65393e42&hm=486e1a46eecbac870bd9d7be05ca0418483c5687191e2a5dc0ba078d28ad576d&=" width="250"/>
        </p>
        
 
