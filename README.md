@@ -9,7 +9,7 @@
  </p>
 <p align = "justified">Em 2022 concluí o curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) e atualmente curso Bacharelado em Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP).
 </p>
-<p align = "justified">Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas.</p>
+<p align = "justified">Tenho uma curiosidade aguçada e amo descobrir e aprender novas coisas.</p>
       
 <div align="center"> 
   <a href="https://www.linkedin.com/in/amandaedantasds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Amanda Dantas" target="_blank">
