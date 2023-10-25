@@ -15,7 +15,6 @@
 </p>
 <p align = "justified">Tenho uma curisidade aguçada e amo descobrir e aprender novas coisas.</p>
       
-<h4 align="center"> Fale comigo! </h4>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/amandaedantasds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt =" Larissa Souza " target="_blank">
   </a> 
