@@ -1,6 +1,5 @@
 <p>
- <img src= "[https://cdn.discordapp.com/attachments/1020518662597246989/1166727937706442772/White_Torn_Paper_LinkedIn_Banner.jpg?ex=654b8b11&is=65391611&hm=b02a867fa8359afbfdcb24f3e1461a86fe4640a31d1f29a58eed10110baaa61c&](https://github.com/amandadantasds/amandadantasds/issues/1#issue-3048854371)"/>
- ![Image](https://github.com/user-attachments/assets/6671208a-ae7f-4e8d-8fdb-9d6e2d6313b1)
+ <img src= "(https://github.com/amandadantasds/amandadantasds/issues/1#issue-3048854371)"/>
 </p>
        
        
