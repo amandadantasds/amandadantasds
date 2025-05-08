@@ -1,5 +1,5 @@
 <p>
- <img src= "(https://github.com/amandadantasds/amandadantasds/issues/1#issue-3048854371)"/>
+ <img src= "https://github.com/amandadantasds/amandadantasds/issues/1#issue-3048854371"/>
 </p>
        
        
