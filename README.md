@@ -1,5 +1,5 @@
 <p>
- <img src= "https://github.com/amandadantasds/amandadantasds/issues/1#issue-3048854371"/>
+ ![Image](https://github.com/user-attachments/assets/6671208a-ae7f-4e8d-8fdb-9d6e2d6313b1)
 </p>
        
        
