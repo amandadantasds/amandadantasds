@@ -22,14 +22,3 @@
        
 
 
-<h2 align="left" > 📑 PROJETOS</h2>
-
-<p align = "left">Você pode conferir alguns dos meus projetos logo abaixo, nos meus repositórios fixados! =) </p>
-
-<p align = "center">
-    <a href="https://github.com/amandadantasds">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amandadantasds&theme=algolia" align="center"/>
-    </a>
-</p>
-
-
